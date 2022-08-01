@@ -6,7 +6,7 @@ This project is done for ghameh_dovom_enghelab classes as a project series.
 
 1. Install python3, pip3, virtualenv, MySQL in your system.
 
-2. Clone the project `https://github.com/mgmgst/ghameh_dovom_enghelab.git` && cd sms_serial_verification
+2. Clone the project `https://github.com/rapexa/ghameh_dovom_enghelab.git` && cd sms_serial_verification
 
 3. in the app folder, rename the `config.py.sample` to `config.py` and do proper changes.
 
